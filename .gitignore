@@ -1,0 +1,12 @@
+venv/
+
+mywebsite/settings.py
+
+.idea/
+
+db.sqlite3
+
+*.log
+*.pot
+*.pyc
+__pycache__/
